@@ -3,4 +3,4 @@ layout: page
 title: "Home"
 ---
 
-![image](/assets/photo.jpg){:height="50%" width="50%"}
+![image](/assets/photo.jpg){:height="100%" width="100%"}
