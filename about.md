@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: page
 title: "About"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+我是資工四乙吳佳禎
+興趣是打球
