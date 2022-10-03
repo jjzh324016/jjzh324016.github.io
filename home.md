@@ -5,4 +5,4 @@ layout: post
 categories: media
 ---
 
-![image](/assets/photo.jpg){:height="50%" width="50%"}
+![image](/assets/photo.jpg){:height="25%" width="25%"}
