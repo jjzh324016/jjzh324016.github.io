@@ -1,8 +1,6 @@
 ---
-title:  "Welcome to my page"
-mathjax: true
 layout: page
-categories: media
+title: "Home"
 ---
 
 ![image](/assets/photo.jpg){:height="10%" width="10%"}
