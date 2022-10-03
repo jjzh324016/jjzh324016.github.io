@@ -1,7 +1,7 @@
 ---
 title:  "Welcome to my page"
 mathjax: true
-layout: post
+layout: page
 categories: media
 ---
 
